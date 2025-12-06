@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PropuestaTecnica.Bussiness/PropuestaTecnica.Bussiness.csproj" />
+  <Project Path="PropuestaTecnica.Common/PropuestaTecnica.Common.csproj" />
+  <Project Path="PropuestaTecnica.Configurations/PropuestaTecnica.Configurations.csproj" />
+  <Project Path="PropuestaTecnica.DataAccess/PropuestaTecnica.DataAccess.csproj" />
+  <Project Path="PropuestaTecnica.WebAPI/PropuestaTecnica.WebAPI.csproj" />
+</Solution>
